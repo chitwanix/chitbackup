@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo rm -rf /usr/lib/chitwanix/chitBackup
+sudo cp -R usr /
+sudo chitbackup

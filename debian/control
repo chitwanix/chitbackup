@@ -1,0 +1,12 @@
+Source: chitbackup
+Section: admin
+Priority: optional
+Maintainer: Arun Pyasi <root@chitwanix.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: chitbackup
+Architecture: all
+Depends: python (>= 2.4), python (<< 3), python-gtk2, python-glade2
+Description: Home Directory Backup Tool
+ Easily backup and restore your personal data and your software selection.

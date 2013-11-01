@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Backup Tool
+Comment=Make a backup of your home directory
+Exec=chitbackup
+Icon=/usr/lib/chitwanix/chitBackup/icon.svg
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Application;System;Settings
